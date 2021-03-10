@@ -30,9 +30,9 @@ comments: true
 ## ALAMAT KIRIM TOKO BUNGA BALIGE
 Berikut dilampirkan alamat jangkauan pengiriman Toko Bunga Balige Asry Florist, diantaranya adalah sebagai berikut:
 
-'''
+```
 napitupulu bagasan, aek bolon jae, aek bolon julu, baru ara, bonon dolok l, bonan dolok ll, bonan dolok lll, hinalang bagasan, huta bulu mejan, huta dame, huta namora, hutagaol peatalun, longat, lumban bul bul, lumban gaol, lumban gorat, lumban pea, lumban silintong, matio, paindoan, parsuratan, sangkar nihuta, sariburaja janji maria, sianipar sihail hail, sibola hotangsas, siboruon, sibuntuon, silalahi pagar batu, pardede onan, lumban dolok haume bange, balige l, balige ll, balige lll
-'''
+```
 
 ### KONTAK TOKO BUNGA BALIGE
 Jika nantinya alamat kirim pesanan anda tidak terdapat di daftar yang tertera diatas, maka bisa menghubungi kontak admin kami ya di: 081396353338.
